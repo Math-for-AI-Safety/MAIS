@@ -30,6 +30,20 @@ Contributions of every size are welcome; see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 The best first move is to [open an issue](https://github.com/Math-for-AI-Safety/MAIS/issues/new/choose) — a public thread that anyone can answer. A substantial contribution earns an invitation to join the author list, subject to the judgment of the document's current authors.
 
+## People
+
+MAIS was founded by [Lionel Levine](https://lionellevine.github.io/) (Cornell University). The repository is maintained by Lionel together with
+
+- [Satya Benson](https://satchlj.com)
+- [Mario Brcic](https://mariobrcic.com)
+- [Isabel Dahlgren](https://isabeldahlgren.github.io)
+- [Olu Olorode](https://github.com/hgfjh)
+- [Iris Shi](https://garvy.site)
+- [Victor Souza](https://github.com/victorsouza)
+- [Sylvia Zhang](https://github.com/ayumoesylv)
+
+Maintainers review contributions, verify claimed results, and merge pull requests; see [CONTRIBUTING.md](CONTRIBUTING.md) for how to work with them.
+
 ## Citing
 
 Cite documents by their permanent identifier; contributions by others are cited as their authors' own work. Templates in [CITATION.md](CITATION.md).
