@@ -1,6 +1,6 @@
 # Opposing staircases
 
-*Open problem MAIS-O7 · headline problem 7 of the survey [MAIS-P1](../papers/P1/) · canonically formalized in [MAIS-A7](../agendas/A7/) as [Conjecture 3.10](../agendas/A7/MAIS-A7.tex#L367) · Status: open; [full solution pending review (issue #5)](https://github.com/lionellevine/MAIS/issues/5).*
+*Open problem MAIS-O7 · headline problem 7 of the survey [MAIS-P1](../papers/P1/) · canonically formalized in [MAIS-A7](../agendas/A7/) as [Conjecture 3.10](../agendas/A7/MAIS-A7.tex#L367) · Status: open; [full solution pending review (issue #5)](https://github.com/Math-for-AI-Safety/MAIS/issues/5).*
 
 *Tags: generalization · developmental interpretability · singular learning theory · training dynamics · algebraic geometry. Difficulty: ★★.*
 

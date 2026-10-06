@@ -28,7 +28,7 @@ The [open-problem index](open-problems/README.md) is the full registry, and the 
 
 Contributions of every size are welcome; see [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The best first move is to [open an issue](https://github.com/lionellevine/MAIS/issues/new/choose) — a public thread that anyone can answer. A substantial contribution earns an invitation to join the author list, subject to the judgment of the document's current authors.
+The best first move is to [open an issue](https://github.com/Math-for-AI-Safety/MAIS/issues/new/choose) — a public thread that anyone can answer. A substantial contribution earns an invitation to join the author list, subject to the judgment of the document's current authors.
 
 ## Citing
 

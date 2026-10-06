@@ -1,6 +1,6 @@
 # Contributing
 
-Each document in this repository has its own author list and its own status, noted at the top of the file. Contributions of every size are welcome! Notice a typo? Have you solved one of the open problems, or do you have an idea for tackling one of them? Want your own open problem listed here? [Open an **issue**](https://github.com/lionellevine/MAIS/issues/new/choose) (a public comment thread attached to this repository) or email me: [lionel.levine@cornell.edu](mailto:lionel.levine@cornell.edu)
+Each document in this repository has its own author list and its own status, noted at the top of the file. Contributions of every size are welcome! Notice a typo? Have you solved one of the open problems, or do you have an idea for tackling one of them? Want your own open problem listed here? [Open an **issue**](https://github.com/Math-for-AI-Safety/MAIS/issues/new/choose) (a public comment thread attached to this repository) or email me: [lionel.levine@cornell.edu](mailto:lionel.levine@cornell.edu)
 
 Step-by-step instructions: [submitting a solution](contributing/solutions.md) · [discussion and progress on a problem](contributing/discussion.md) · [submitting a correction](contributing/corrections.md) · [proposing a new problem or agenda](contributing/new-problems.md).
 
@@ -30,7 +30,7 @@ What counts as substantial is judged per document by its current authors, in con
 
 ## GitHub for mathematicians
 
-GitHub organizes collaboration around two objects with opaque names. An **issue** is a public comment thread attached to the repository — the place to ask a question, report an error, float an idea, or announce that you are working on something.  A **pull request** is a proposed edit: a marked-up copy of one or more files, submitted for the authors to review and merge — the manuscript with margin notes. Both require only a free account, created in a minute at [github.com/signup](https://github.com/signup). To follow what happens here, press **Watch** at the top of the [repository page](https://github.com/lionellevine/MAIS) for notifications of new threads, or subscribe to the [feed of changes](https://github.com/lionellevine/MAIS/commits/main.atom).
+GitHub organizes collaboration around two objects with opaque names. An **issue** is a public comment thread attached to the repository — the place to ask a question, report an error, float an idea, or announce that you are working on something.  A **pull request** is a proposed edit: a marked-up copy of one or more files, submitted for the authors to review and merge — the manuscript with margin notes. Both require only a free account, created in a minute at [github.com/signup](https://github.com/signup). To follow what happens here, press **Watch** at the top of the [repository page](https://github.com/Math-for-AI-Safety/MAIS) for notifications of new threads, or subscribe to the [feed of changes](https://github.com/Math-for-AI-Safety/MAIS/commits/main.atom).
 
 ## Writing math in Markdown
 

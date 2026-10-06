@@ -1,6 +1,6 @@
 # Do margins imply behavioral identifiability of causal models?
 
-*Open problem MAIS-O23 · posed in [MAIS-A2](../agendas/A2/) as [Question 4.1](../agendas/A2/MAIS-A2.tex#L260) · Status: open; [full solution pending review (issue #6)](https://github.com/lionellevine/MAIS/issues/6).*
+*Open problem MAIS-O23 · posed in [MAIS-A2](../agendas/A2/) as [Question 4.1](../agendas/A2/MAIS-A2.tex#L260) · Status: open; [full solution pending review (issue #6)](https://github.com/Math-for-AI-Safety/MAIS/issues/6).*
 
 *Tags: interpretability · world-model discovery · eliciting latent knowledge · black-box evaluation · algebraic geometry · probability. Difficulty: ★★★.*
 

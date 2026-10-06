@@ -5,7 +5,7 @@ number of attempts, tolerances, stopping rules, and screening stages.
 
 The search implementation and logs referenced below are in the complete
 evidence archive attached to
-[issue #2](https://github.com/lionellevine/MAIS/issues/2); this directory carries
+[issue #2](https://github.com/Math-for-AI-Safety/MAIS/issues/2); this directory carries
 the standalone verifier and exported numerical fits.
 
 Everything below is read off the code, the logs, or the interpreter that

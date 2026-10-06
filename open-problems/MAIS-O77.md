@@ -1,6 +1,6 @@
 # Learning coefficients on the matrix factorization fiber and saddles
 
-*Open problem MAIS-O77 · posed in [MAIS-A7](../agendas/A7/) as [Problem 3.9](../agendas/A7/MAIS-A7.tex#L359) · Status: open; [full solution pending review (issue #12)](https://github.com/lionellevine/MAIS/issues/12).*
+*Open problem MAIS-O77 · posed in [MAIS-A7](../agendas/A7/) as [Problem 3.9](../agendas/A7/MAIS-A7.tex#L359) · Status: open; [full solution pending review (issue #12)](https://github.com/Math-for-AI-Safety/MAIS/issues/12).*
 
 *Tags: generalization · singular learning theory · developmental interpretability · algebraic geometry. Difficulty: ★★.*
 

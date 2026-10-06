@@ -1,6 +1,6 @@
 # Exact identified set for two-variable causal models
 
-*Open problem MAIS-O34 · posed in [MAIS-A2](../agendas/A2/) as [Problem 5.2](../agendas/A2/MAIS-A2.tex#L376) · Status: open; [partial solution pending review (issue #4)](https://github.com/lionellevine/MAIS/issues/4).*
+*Open problem MAIS-O34 · posed in [MAIS-A2](../agendas/A2/) as [Problem 5.2](../agendas/A2/MAIS-A2.tex#L376) · Status: open; [partial solution pending review (issue #4)](https://github.com/Math-for-AI-Safety/MAIS/issues/4).*
 
 *Tags: interpretability · world-model discovery · eliciting latent knowledge · black-box evaluation · algebraic geometry · computational. Difficulty: ★.*
 

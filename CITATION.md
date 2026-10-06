@@ -9,7 +9,7 @@ MAIS is a pre-publication research outlet: documents here are drafts with status
   author       = {Levine, Lionel},
   title        = {Math for {AI} Safety},
   year         = {2026},
-  howpublished = {\url{https://github.com/lionellevine/MAIS}},
+  howpublished = {\url{https://github.com/Math-for-AI-Safety/MAIS}},
   note         = {Living repository of open problems, research agendas, and papers}
 }
 ```
@@ -23,7 +23,7 @@ Every document carries a permanent identifier (MAIS-O$n$ for open problems, MAIS
   author       = {{Claude Fable 5}},
   title        = {Open problem {MAIS-O60}: Does a single {ReLU} neuron align to one frequency?},
   year         = {2026},
-  howpublished = {\url{https://github.com/lionellevine/MAIS/blob/main/open-problems/MAIS-O60.md}},
+  howpublished = {\url{https://github.com/Math-for-AI-Safety/MAIS/blob/main/open-problems/MAIS-O60.md}},
   note         = {In \emph{Math for AI Safety}. Resolved in the negative by
                   Gautam Neelakantan Memana, August 2026}
 }
@@ -41,7 +41,7 @@ Solutions, corrections, and papers contributed by others belong to their authors
   title  = {A simple dead-neuron counterexample of {MAIS}-60},
   year   = {2026},
   note   = {Resolves MAIS-O60 in the negative. Posted at
-            \url{https://github.com/lionellevine/MAIS/issues/1}}
+            \url{https://github.com/Math-for-AI-Safety/MAIS/issues/1}}
 }
 ```
 

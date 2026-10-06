@@ -1,6 +1,6 @@
 # Local learning coefficients of reduced-rank regression
 
-*Open problem MAIS-O70 · posed in [MAIS-A6](../agendas/A6/) as [Problem 6.3](../agendas/A6/MAIS-A6.tex#L491) · Status: open; [full solution pending review (issue #3)](https://github.com/lionellevine/MAIS/issues/3).*
+*Open problem MAIS-O70 · posed in [MAIS-A6](../agendas/A6/) as [Problem 6.3](../agendas/A6/MAIS-A6.tex#L491) · Status: open; [full solution pending review (issue #3)](https://github.com/Math-for-AI-Safety/MAIS/issues/3).*
 
 *Tags: interpretability · generalization · singular learning theory · developmental interpretability · algebraic geometry · statistics. Difficulty: ★★.*
 

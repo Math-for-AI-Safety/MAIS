@@ -1,6 +1,6 @@
 # Boundary-state residual of max-margin gradient descent
 
-*Open problem MAIS-O89 · posed in [MAIS-A8](../agendas/A8/) as [Problem 7.1](../agendas/A8/MAIS-A8.tex#L462) · Status: open; [full solution pending review (issue #14)](https://github.com/lionellevine/MAIS/issues/14).*
+*Open problem MAIS-O89 · posed in [MAIS-A8](../agendas/A8/) as [Problem 7.1](../agendas/A8/MAIS-A8.tex#L462) · Status: open; [full solution pending review (issue #14)](https://github.com/Math-for-AI-Safety/MAIS/issues/14).*
 
 *Tags: generalization · goal misgeneralization · training dynamics · optimization · dynamical systems. Difficulty: ★.*
 

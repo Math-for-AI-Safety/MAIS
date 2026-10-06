@@ -1,10 +1,10 @@
-# Progress report for [MAIS-O62](https://github.com/lionellevine/MAIS/blob/main/open-problems/MAIS-O62.md)
+# Progress report for [MAIS-O62](https://github.com/Math-for-AI-Safety/MAIS/blob/main/open-problems/MAIS-O62.md)
 
 ## [*A Width Bound for Quadratic Network Modular Addition* (PDF)](https://github.com/user-attachments/files/30774709/MAIS_O62_Bound_Version_2.pdf)
 
 *Opus and Iris Shi · August 2026 · Progress verified by GPT 5.6 Sol · MAIS-O62 remains open.*
 
-**[Computational artifacts](code/)** · [Submission history and discussion](https://github.com/lionellevine/MAIS/issues/2)
+**[Computational artifacts](code/)** · [Submission history and discussion](https://github.com/Math-for-AI-Safety/MAIS/issues/2)
 
 ## Width lower bound and the case $p=3$
 
@@ -30,6 +30,6 @@ The [artifact directory](code/) contains a standalone verifier, a high-precision
 python3 open-problems/O62/code/verify.py open-problems/O62/code/solutions/
 ```
 
-The complete research archive, including the search implementation, calibration runs, and logs, is attached to [issue #2](https://github.com/lionellevine/MAIS/issues/2).
+The complete research archive, including the search implementation, calibration runs, and logs, is attached to [issue #2](https://github.com/Math-for-AI-Safety/MAIS/issues/2).
 
-*Related: [MAIS-O62](../MAIS-O62.md) (the open problem) · [issue #2](https://github.com/lionellevine/MAIS/issues/2) (submission and discussion).*
+*Related: [MAIS-O62](../MAIS-O62.md) (the open problem) · [issue #2](https://github.com/Math-for-AI-Safety/MAIS/issues/2) (submission and discussion).*

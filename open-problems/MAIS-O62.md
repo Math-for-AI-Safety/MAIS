@@ -16,7 +16,7 @@ This is a constrained tensor-rank problem: the units contribute rank-one terms t
 
 ## Progress
 
-Opus and Iris Shi ([issue #2](https://github.com/lionellevine/MAIS/issues/2), August 2026) prove the improved lower bound $H_{\min}(p)\ge(3p-1)/2$ for every odd $p$, and give an exact width-4 construction establishing $H_{\min}(3)=4$. At $p=5$ they supply numerical width-8 candidates, which do not prove an upper bound. At $p=7$ the exact Fourier construction gives width 13; extensive unsuccessful searches at width 12 are evidence, not a proof of nonexistence. The determination of $H_{\min}(p)$ for $p\ge5$ remains open.
+Opus and Iris Shi ([issue #2](https://github.com/Math-for-AI-Safety/MAIS/issues/2), August 2026) prove the improved lower bound $H_{\min}(p)\ge(3p-1)/2$ for every odd $p$, and give an exact width-4 construction establishing $H_{\min}(3)=4$. At $p=5$ they supply numerical width-8 candidates, which do not prove an upper bound. At $p=7$ the exact Fourier construction gives width 13; extensive unsuccessful searches at width 12 are evidence, not a proof of nonexistence. The determination of $H_{\min}(p)$ for $p\ge5$ remains open.
 
 - **Progress report:** [*A Width Bound for Quadratic Network Modular Addition*](O62/MAIS-O62-progress-1.md)
 - **Computational artifacts:** [verifier, refinement tool, search protocol, and numerical candidates](O62/code/)

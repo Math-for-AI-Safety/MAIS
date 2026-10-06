@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
   - name: Contributing without GitHub
-    url: https://github.com/lionellevine/MAIS/blob/main/CONTRIBUTING.md#the-short-version
+    url: https://github.com/Math-for-AI-Safety/MAIS/blob/main/CONTRIBUTING.md#the-short-version
     about: The contribution guide includes a private email alternative.

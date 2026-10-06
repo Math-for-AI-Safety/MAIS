@@ -1,6 +1,6 @@
 # Tolerable corruption fraction for goal-based model extraction
 
-*Open problem MAIS-O33 · posed in [MAIS-A2](../agendas/A2/) as [Problem 4.12](../agendas/A2/MAIS-A2.tex#L357) · Status: open; [full solution pending review (issue #9)](https://github.com/lionellevine/MAIS/issues/9).*
+*Open problem MAIS-O33 · posed in [MAIS-A2](../agendas/A2/) as [Problem 4.12](../agendas/A2/MAIS-A2.tex#L357) · Status: open; [full solution pending review (issue #9)](https://github.com/Math-for-AI-Safety/MAIS/issues/9).*
 
 *Tags: interpretability · world-model discovery · eliciting latent knowledge · black-box evaluation · complexity theory · combinatorics · probability. Difficulty: ★★★.*
 

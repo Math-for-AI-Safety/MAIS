@@ -2,7 +2,7 @@
 
 Detailed summaries of AI safety papers cited across the [open problems](../open-problems/) and [agendas](../agendas/), in a format suitable for providing to an LLM. It can be useful to stuff an AI agent's context with the papers relevant to a problem, but providing full texts is often inefficient; these summaries aim to carry what matters — hypotheses, results, method, and safety relevance — at a fraction of the length.
 
- These summaries aim to be faithful compressions, checked against the source; they are not endorsements or reviews. Corrections and additions are welcome! Want to [correct one of these summaries](../contributing/corrections.md), or add a new summary? [Open an issue](https://github.com/lionellevine/MAIS/issues/new/choose).
+ These summaries aim to be faithful compressions, checked against the source; they are not endorsements or reviews. Corrections and additions are welcome! Want to [correct one of these summaries](../contributing/corrections.md), or add a new summary? [Open an issue](https://github.com/Math-for-AI-Safety/MAIS/issues/new/choose).
 
 | Key | Work | Cited by |
 |-----|------|----------|

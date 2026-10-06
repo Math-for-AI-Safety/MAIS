@@ -1,6 +1,6 @@
 # Explicit polynomial margins replacing generic causal identifiability
 
-*Open problem MAIS-O24 · posed in [MAIS-A2](../agendas/A2/) as [Problem 4.2](../agendas/A2/MAIS-A2.tex#L266) · Status: open; [full solution pending review (issue #7)](https://github.com/lionellevine/MAIS/issues/7).*
+*Open problem MAIS-O24 · posed in [MAIS-A2](../agendas/A2/) as [Problem 4.2](../agendas/A2/MAIS-A2.tex#L266) · Status: open; [full solution pending review (issue #7)](https://github.com/Math-for-AI-Safety/MAIS/issues/7).*
 
 *Tags: interpretability · world-model discovery · eliciting latent knowledge · black-box evaluation · algebraic geometry · probability · complexity theory. Difficulty: ★★.*
 

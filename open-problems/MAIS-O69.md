@@ -1,6 +1,6 @@
 # When does the localized posterior estimate the local learning coefficient?
 
-*Open problem MAIS-O69 · posed in [MAIS-A6](../agendas/A6/) as [Problem 6.1](../agendas/A6/MAIS-A6.tex#L471) · Status: open; [full solution pending review (issue #10)](https://github.com/lionellevine/MAIS/issues/10).*
+*Open problem MAIS-O69 · posed in [MAIS-A6](../agendas/A6/) as [Problem 6.1](../agendas/A6/MAIS-A6.tex#L471) · Status: open; [full solution pending review (issue #10)](https://github.com/Math-for-AI-Safety/MAIS/issues/10).*
 
 *Tags: interpretability · generalization · singular learning theory · developmental interpretability · statistics · probability. Difficulty: ★★.*
 

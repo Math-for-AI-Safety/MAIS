@@ -16,7 +16,7 @@
 
 The published solution is Gautam Neelakantan Memana, *A Counterexample to Fourier Alignment in Single-Neuron Modular Addition*, [MAIS-P3](../../papers/P3/), August 2026 — [arXiv:2608.04451](https://arxiv.org/abs/2608.04451).
 
-The component manuscripts remain attached to [issue #1](https://github.com/lionellevine/MAIS/issues/1), where the discussion lives:
+The component manuscripts remain attached to [issue #1](https://github.com/Math-for-AI-Safety/MAIS/issues/1), where the discussion lives:
 
 - Gautam Neelakantan Memana, *A simple dead-neuron counterexample of MAIS-60*, August 1, 2026 — [PDF](https://github.com/user-attachments/files/30615776/MAIS_60-2.pdf).
 - GPT-5.6 Sol, *Strengthened counterexamples to single-frequency alignment in MAIS-O60*, written in conversation with G. N. Memana, August 1, 2026 — [PDF](https://github.com/user-attachments/files/30615797/MAIS_O60_strengthened_counterexamples.pdf).

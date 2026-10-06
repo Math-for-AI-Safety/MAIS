@@ -4,7 +4,7 @@ MAIS collects problems whose solution would advance AI safety and which are stat
 
 First check the [registry](../open-problems/README.md): a restatement of an existing problem keeps its identifier rather than earning a new one.
 
-Then [open an issue](https://github.com/lionellevine/MAIS/issues/new/choose) with:
+Then [open an issue](https://github.com/Math-for-AI-Safety/MAIS/issues/new/choose) with:
 
 - the **statement**, as precise as you can make it;
 - the **motivation** — the AI safety question it serves, stated so that a reader with no MAIS context can follow it;

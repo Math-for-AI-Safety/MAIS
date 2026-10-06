@@ -16,7 +16,7 @@ Part (1) alone would be substantial progress: the known counterexamples occupy c
 
 ## References
 
-- [M26] G. N. Memana, *A simple dead-neuron counterexample of MAIS-60*, note posted to [MAIS issue #1](https://github.com/lionellevine/MAIS/issues/1), August 2026.
+- [M26] G. N. Memana, *A simple dead-neuron counterexample of MAIS-60*, note posted to [MAIS issue #1](https://github.com/Math-for-AI-Safety/MAIS/issues/1), August 2026.
 - [[HWCY26]](../references/HWCY26.md) J. He, L. Wang, S. Chen, and Z. Yang, *On the mechanism and dynamics of modular addition: Fourier features, lottery ticket, and grokking*, preprint, 2026. [arXiv:2602.16849](https://arxiv.org/abs/2602.16849)
 
 *Related: [MAIS-O60](MAIS-O60.md) (the resolved yes/no question this quantifies) · [MAIS-O59](MAIS-O59.md) (two quadratic neurons: alignment plus competition) · [MAIS-O61](MAIS-O61.md) (a pilot measurement of the wide-network law) · [MAIS-O5](MAIS-O5.md) (the headline selection law).*

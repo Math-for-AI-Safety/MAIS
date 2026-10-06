@@ -1,6 +1,6 @@
 # Which feature maps make the max-margin classifier misgeneralize?
 
-*Open problem MAIS-O85 · posed in [MAIS-A8](../agendas/A8/) as [Problem 5.9](../agendas/A8/MAIS-A8.tex#L388) · Status: open; [full solution pending review (issue #13)](https://github.com/lionellevine/MAIS/issues/13).*
+*Open problem MAIS-O85 · posed in [MAIS-A8](../agendas/A8/) as [Problem 5.9](../agendas/A8/MAIS-A8.tex#L388) · Status: open; [full solution pending review (issue #13)](https://github.com/Math-for-AI-Safety/MAIS/issues/13).*
 
 *Tags: generalization · goal misgeneralization · proxy goals · simplicity bias · convex geometry · optimization. Difficulty: ★★.*
 

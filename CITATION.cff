@@ -5,6 +5,6 @@ authors:
   - family-names: Levine
     given-names: Lionel
     affiliation: Cornell University
-repository-code: "https://github.com/lionellevine/MAIS"
-url: "https://github.com/lionellevine/MAIS"
+repository-code: "https://github.com/Math-for-AI-Safety/MAIS"
+url: "https://github.com/Math-for-AI-Safety/MAIS"
 license: CC-BY-4.0

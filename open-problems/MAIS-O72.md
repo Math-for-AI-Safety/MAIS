@@ -1,6 +1,6 @@
 # Finiteness and frontier condition for learning-coefficient strata
 
-*Open problem MAIS-O72 · posed in [MAIS-A7](../agendas/A7/) as [Question 3.1](../agendas/A7/MAIS-A7.tex#L216) · Status: open; [full solution pending review (issue #11)](https://github.com/lionellevine/MAIS/issues/11).*
+*Open problem MAIS-O72 · posed in [MAIS-A7](../agendas/A7/) as [Question 3.1](../agendas/A7/MAIS-A7.tex#L216) · Status: open; [full solution pending review (issue #11)](https://github.com/Math-for-AI-Safety/MAIS/issues/11).*
 
 *Tags: generalization · singular learning theory · developmental interpretability · algebraic geometry. Difficulty: ★★★.*
 
