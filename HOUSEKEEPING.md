@@ -25,3 +25,9 @@ Conventions that keep this repository consistent. Readers don't need this page; 
 
 - Rebuild any document with LaTeX source by running `latexmk -pdf -interaction=nonstopmode -halt-on-error <FILE>.tex` from its folder. Only each `.tex` and its matching `.pdf` are committed; LaTeX auxiliary files are ignored.
 - MAIS-P1 is a fixed PDF: a solo paper nearing completion, so its source is not a collaboration surface and is not in the repository.
+
+## Issue workflow
+
+- The maintainer's procedure for an issue, from arrival to record, is [MAINTAINING.md](MAINTAINING.md).
+- Every open issue carries a kind label (`candidate-solution`, `progress`, `correction`, `new-problem`, `reference`, `discussion`), a stage label (`unscreened` → `screened` → `in-review` → `needs-revision` / `verified` / `not-a-resolution` → `recorded`), and an area label (`A1` … `A8`, or `meta`). `ai-generated` marks submissions whose authors disclose AI-produced arguments.
+- All changes arrive as pull requests. Resolution pages, progress pages, and reference summaries may be merged by any maintainer; agendas, papers, and verbatim problem statements are reviewed by Lionel Levine.
