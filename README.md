@@ -1,10 +1,10 @@
 # Math for AI Safety
 
-This is the home of [*Math for AI Safety: An Invitation for Mathematicians*](papers/P1/) by [Lionel Levine](https://lionellevine.github.io/) (Cornell University).
+## Research Collaboration Hub
 
-## What's here?
+Mathematics has a part to play in making advanced AI safe, and much of that work is still waiting for mathematicians to take it up. MAIS is where that work happens in public: open problems stated precisely enough to attack, research agendas that develop them, and papers that grow out of the agendas, all released from draft stage onward, with status labels in place of polish, so that anyone can engage. Progress is recorded against permanent identifiers, and contributions of every size are credited.
 
-Beyond the [invitation paper](papers/P1/), this repo hosts three kinds of pre-publication research:
+Three kinds of document live here:
 
 | Kind | What it is |
 |------|------------|
@@ -32,7 +32,7 @@ The best first move is to [open an issue](https://github.com/Math-for-AI-Safety/
 
 ## People
 
-MAIS was founded by [Lionel Levine](https://lionellevine.github.io/) (Cornell University). The repository is maintained by Lionel together with
+MAIS grew out of [*Math for AI Safety: An Invitation for Mathematicians*](papers/P1/), the survey by its founder, [Lionel Levine](https://lionellevine.github.io/) (Cornell University). The repository is maintained by Lionel together with
 
 - [Satya Benson](https://satchlj.com)
 - [Mario Brcic](https://mariobrcic.com)
