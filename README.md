@@ -2,15 +2,13 @@
 
 ## Research Collaboration Hub
 
-Mathematics has a part to play in making advanced AI safe, and much of that work is still waiting for mathematicians to take it up. MAIS is where that work happens in public: open problems stated precisely enough to attack, research agendas that develop them, and papers that grow out of the agendas, all released from draft stage onward, with status labels in place of polish, so that anyone can engage. Progress is recorded against permanent identifiers, and contributions of every size are credited.
+Mathematics has a part to play in making advanced AI safe, and much of that work is still waiting for mathematicians to take it up. MAIS is where that work happens in public: precisely stated open math problems, each paired with a theory of change for how a solution could advance AI safety; research agendas that incorporate multiple open problems and their surrounding context; and papers that grow out of solutions to the problems.
 
-Three kinds of document live here:
+This repo hosts pre-publication math research of three kinds:
 
-| Kind | What it is |
-|------|------------|
-| [**Open Problems**](open-problems/) | A short exposition of a single open problem |
-| [**Agendas**](agendas/) | A cluster of related open problems and partial progress on resolving them |
-| [**Papers**](papers/) | Papers in progress |
+- [**Open Problems**](open-problems/) — a short exposition of a single open problem
+- [**Agendas**](agendas/) — a cluster of related open problems and partial progress on resolving them
+- [**Papers**](papers/) — papers in progress
 
 The intended life cycle is **open problem → agenda → paper → publication**: open problems get incorporated into agendas, and a maturing agenda spins off papers. Cited external work is summarized in [references/](references/), one page per paper, suitable for stuffing an LLM's context.
 
@@ -20,6 +18,8 @@ The [open-problem index](open-problems/README.md) is the full registry, and the 
 
 ## Getting started in AI safety
 
+- [*Math for AI Safety: An Invitation for Mathematicians*](papers/P1/) — a survey organized by mathematical field, each section ending with an accessible open problem.
+- [Where to start, as a mathematician](https://x.com/lionellevine/status/2089069589413978443) — a thread on X: what AI safety is, how to learn more, and where math helps, with links in reading order.
 - [AI-Safety for Mathematicians](https://mathforaisafety.org) — a starting point for professional mathematicians who want to engage with AI safety, maintained by Jacob Tsimerman.
 - [Statistics for AI Safety](https://github.com/xhuo17/statistics-for-ai-safety/blob/main/README.md) — a collection of self-contained open problems in AI safety for statisticians.
 - [The Alignment Project](https://alignmentproject.aisi.gov.uk/research-agenda) — the research agenda of a UK AISI–led coalition funding alignment research; several of its priority areas are mathematical.
