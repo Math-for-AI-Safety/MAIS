@@ -23,6 +23,7 @@ The [open-problem index](open-problems/README.md) is the full registry, and the 
 - [AI-Safety for Mathematicians](https://mathforaisafety.org) — a starting point for professional mathematicians who want to engage with AI safety, maintained by Jacob Tsimerman.
 - [Statistics for AI Safety](https://github.com/xhuo17/statistics-for-ai-safety/blob/main/README.md) — a collection of self-contained open problems in AI safety for statisticians.
 - [The Alignment Project](https://alignmentproject.aisi.gov.uk/research-agenda) — the research agenda of a UK AISI–led coalition funding alignment research; several of its priority areas are mathematical.
+- [AI + Mathematics Resources](https://sites.northwestern.edu/airesourcesmath/) — a curated list from Northwestern's mathematics department spanning AI and mathematics broadly: research platforms, formalization projects, educational programs, funding, conferences, and mathematicians' perspectives.
 
 ## Contributing
 
