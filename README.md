@@ -1,4 +1,5 @@
-# Math for AI Safety
+# Math for AI Safety 
+[math-for-ai-safety.github.io](https://math-for-ai-safety.github.io/)
 
 ## Research Collaboration Hub
 
